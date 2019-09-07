@@ -10,6 +10,7 @@ hongyuan'qiu的个人博客
 
 ### 最新
 
+* [哈哈哈](http://www.hiblog.site:666/articles/2019/09/08/1567874243617.html)
 * [世界，你好！](http://www.hiblog.site:666/hello-solo)
 
 
