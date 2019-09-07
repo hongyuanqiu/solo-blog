@@ -10,7 +10,7 @@ hongyuan'qiu的个人博客
 
 ### 最新
 
-* [世界，你好！](https://www.hiblog.site:65525/hello-solo)
+* [世界，你好！](https://www.hiblog.site:666/hello-solo)
 
 
 
