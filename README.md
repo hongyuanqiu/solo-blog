@@ -10,7 +10,12 @@ hongyuan'qiu的个人博客
 
 ### 最新
 
-* [测试格式](http://www.hiblog.site:666/articles/2019/09/08/1567915368510.html)
+* [Debian定时执行任务](http://www.hiblog.site:666/articles/2019/09/08/1567925622992.html)
+* [用python更新阿里云dns的IP](http://www.hiblog.site:666/articles/2019/09/08/1567925622544.html)
+* [debian10 配置ssh允许root远程登录](http://www.hiblog.site:666/articles/2019/09/08/1567925622086.html)
+* [debian10安装mysql](http://www.hiblog.site:666/articles/2019/09/08/1567925621588.html)
+* [基于系统修改多个Python版本](http://www.hiblog.site:666/articles/2019/09/08/1567925620994.html)
+* [盘片插入驱动器cdrom](http://www.hiblog.site:666/articles/2019/09/08/1567925619517.html)
 
 
 
