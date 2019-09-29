@@ -18,6 +18,13 @@ hongyuan'qiu的个人博客
 * [debian10 配置ssh允许root远程登录](http://www.hiblog.site:666/articles/2019/09/08/1567927442024.html)
 * [使用Python脚本动态更新阿里云DNS映射](http://www.hiblog.site:666/articles/2019/09/08/1567927442652.html)
 * [Debian10定时执行任务](http://www.hiblog.site:666/articles/2019/09/08/1567927443329.html)
+* [盘片插入驱动器“/media/cdrom/”再按「回车」键](http://www.hiblog.site:666/articles/2019/09/08/1569760170903.html)
+* [基于系统修改多个Python版本](http://www.hiblog.site:666/articles/2019/09/08/1569760172793.html)
+* [debian10 配置ssh允许root远程登录](http://www.hiblog.site:666/articles/2019/09/08/1569760173600.html)
+* [Debian 10 Linux上安装和使用Docker](http://www.hiblog.site:666/articles/2019/09/08/1569760174319.html)
+* [debian10 配置ssh允许root远程登录](http://www.hiblog.site:666/articles/2019/09/08/1569760175020.html)
+* [使用Python脚本动态更新阿里云DNS映射](http://www.hiblog.site:666/articles/2019/09/08/1569760175630.html)
+* [Debian10定时执行任务](http://www.hiblog.site:666/articles/2019/09/08/1569760176256.html)
 
 
 
