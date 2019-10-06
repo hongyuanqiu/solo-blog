@@ -10,6 +10,7 @@ hongyuan'qiu的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.hiblog.site:666/my-github-repos)
 * [VC++ 6.0 不支持long long 类型](http://www.hiblog.site:666/articles/2019/09/12/1568262291573.html)
 * [盘片插入驱动器“/media/cdrom/”再按「回车」键](http://www.hiblog.site:666/articles/2019/09/08/1567927437923.html)
 * [基于系统修改多个Python版本](http://www.hiblog.site:666/articles/2019/09/08/1567927439523.html)
